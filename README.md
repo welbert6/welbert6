@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on not today - control addictions
 <!--
 **welbert6/welbert6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Mobile Stacks 
+* Android
+* Flutter
+
+#Backend 
+* NodeJS
+* Java
+* Kotlin
+
+  
