@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 
 # Mobile Stacks 
 * Android
+* iOS
 * Flutter
 
 # Backend 
+
 * NodeJS
 * Java
 * Kotlin
